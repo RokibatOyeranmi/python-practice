@@ -1,1 +1,1 @@
-git init
+print("My first project on GitHub!")
